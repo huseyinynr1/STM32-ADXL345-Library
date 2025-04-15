@@ -1,0 +1,13 @@
+../Core/Src/adxl345.c:13:6:ADXL345_WriteRegister	1
+../Core/Src/adxl345.c:22:6:ADXL345_ReadRegister	1
+../Core/Src/adxl345.c:31:6:ADXL345_Init	2
+../Core/Src/adxl345.c:75:6:ADXL345_READ_ALL_AXIS	1
+../Core/Src/adxl345.c:85:9:ADXL345_READ_X_AXIS	1
+../Core/Src/adxl345.c:92:9:ADXL345_READ_Y_AXIS	1
+../Core/Src/adxl345.c:99:9:ADXL345_READ_Z_AXIS	1
+../Core/Src/adxl345.c:106:6:ADXL345_READ_ALL_G_VALUE	1
+../Core/Src/adxl345.c:115:7:ADXL345_READ_X_G_VALUE	1
+../Core/Src/adxl345.c:121:7:ADXL345_READ_Y_G_VALUE	1
+../Core/Src/adxl345.c:127:7:ADXL345_READ_Z_G_VALUE	1
+../Core/Src/adxl345.c:133:9:ADXL345_READ_TAP	3
+../Core/Src/adxl345.c:145:9:ADXL345_READ_FREE_FALL	2
